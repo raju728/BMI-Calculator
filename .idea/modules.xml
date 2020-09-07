@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BMI-Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/BMI-Calculator.iml" group="BMI-Calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BMI-Calculator-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BMI-Calculator-app.iml" group="BMI-Calculator/app" />
       <module fileurl="file://$PROJECT_DIR$/BMICalculator.iml" filepath="$PROJECT_DIR$/BMICalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bmi-calculator-android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/bmi-calculator-android-app.iml" group="bmi-calculator-android-app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bmi-calculator-android-app-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bmi-calculator-android-app-app.iml" group="bmi-calculator-android-app/app" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.prototype.iasjem.bmicalculator;
+package com.bmicalculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.prototype.iasjem.bmicalculator", appContext.getPackageName());
+        assertEquals("com.bmicalculator", appContext.getPackageName());
     }
 }

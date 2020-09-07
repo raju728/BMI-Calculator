@@ -1,4 +1,4 @@
-package com.prototype.iasjem.bmicalculator;
+package com.bmicalculator;
 
 import org.junit.Test;
 
